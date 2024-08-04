@@ -1,0 +1,2 @@
+# GEMINI AI CLONE 
+Using HTML, CSS and JS
