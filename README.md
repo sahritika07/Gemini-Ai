@@ -1,2 +1,2 @@
 #  https://ritika-gemini-ai.netlify.app
-Using HTML, CSS and JS
+GEMINI-AI Using HTML, CSS and JS
